@@ -3,7 +3,9 @@ GitHub adresime [Melisa Ataseven](https://github.com/MelisaAtaseven) ulaşabilir
 ---
 ![banner resmi](https://github.com/MelisaAtaseven/HiKod-KadinErkekEsitligi-tekadimesitlik/blob/master/img/ReadmeBanner.png)
 
-### Kodluyoruz Hi-Kod Atölyesi kapsamında `Bilişim Sektöründe Kadın Erkek Eşitliği` konusuna dikkat çekmek amacıyla tasarımını ve kodlamasını yapmış olduğum bitirme projesi.
+### Kodluyoruz'un Hi-Kod Atölyesi bitirme projem için tasarım ve kodlama işlemlerini gerçekleştirdiğim `Bilişim Sektöründe Kadın Erkek Eşitliği` konusuna dikkat çekmek amacıyla hazırlamış olduğum proje'nin;
+Tasarım aşamasında, cinsiyet ayrımcılığına karşı olan duyarlılığı yansıtmak üzere renk ve görsel seçimlerine dikkat ettim.
+Kodlama aşamasında ise, modern ve dinamik bir web sitesi oluşturmak için JavaScript kullandım.
 
 
 ### Figma tasarımıma [tekadımeşitlik](https://www.figma.com/file/okeuBG0MJLM1Qs2WflVsNu/Bili%C5%9Fim-Sekt%C3%B6r%C3%BCnde-Kad%C4%B1n-Erkek-E%C5%9Fitli%C4%9Fi?type=design&node-id=0%3A1&t=DP14jF78iNWYaqQF-1) üzerinden ulaşabilirsiniz 
