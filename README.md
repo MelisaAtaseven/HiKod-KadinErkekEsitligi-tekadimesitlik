@@ -1,5 +1,5 @@
 # HiKod-KadinErkekEsitligi-tekadimesitlik
-GitHub adresime [Melisa Ataseven](https://github.com/MelisaAtaseven) ulaşabilirsiniz.
+Linkedin adresime [Melisa Ataseven](https://www.linkedin.com/in/melisa-ataseven-769473228/) ulaşabilirsiniz.
 ---
 ![banner resmi](https://github.com/MelisaAtaseven/HiKod-KadinErkekEsitligi-tekadimesitlik/blob/master/img/ReadmeBanner.png)
 
