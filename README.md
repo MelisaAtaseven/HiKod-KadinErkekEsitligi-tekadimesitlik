@@ -8,7 +8,15 @@ Tasarım aşamasında, cinsiyet ayrımcılığına karşı olan duyarlılığı 
 Kodlama aşamasında ise, modern ve dinamik bir web sitesi oluşturmak için JavaScript kullandım.
 ---
 
-![Figma Tasarımı](https://github.com/MelisaAtaseven/HiKod-KadinErkekEsitligi-tekadimesitlik/blob/master/WebSite.png)
+https://github.com/MelisaAtaseven/HiKod-KadinErkekEsitligi-tekadimesitlik/assets/91883445/d54c6a0c-5e1b-41bb-a906-d67afa72ff72
+
+---
+
+<!-- ![Figma Tasarımı](https://github.com/MelisaAtaseven/HiKod-KadinErkekEsitligi-tekadimesitlik/blob/master/WebSite.png) -->
+
+
+
+
 
 
 <h3 align="left">Kullandığım Diller ve Araçlar:</h3>
