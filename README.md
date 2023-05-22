@@ -1,5 +1,5 @@
 # HiKod-KadinErkekEsitligi-tekadimesitlik
-Linkedin adresime [Melisa Ataseven](https://www.linkedin.com/in/melisa-ataseven-769473228/) ulaşabilirsiniz.
+Linkedin adresim [Melisa Ataseven](https://www.linkedin.com/in/melisa-ataseven-769473228/).
 ---
 
 
