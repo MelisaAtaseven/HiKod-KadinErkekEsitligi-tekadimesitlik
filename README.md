@@ -2,6 +2,7 @@
 Linkedin adresim [Melisa Ataseven](https://www.linkedin.com/in/melisa-ataseven-769473228/).
 ---
 
+Projemin canlı halini görmek için [Tek Adım Eşitlik](https://hi-kod.vercel.app/).
 
 ### Kodluyoruz'un Hi-Kod Atölyesi bitirme projem için tasarım ve kodlama işlemlerini gerçekleştirdiğim `Bilişim Sektöründe Kadın Erkek Eşitliği` konusuna dikkat çekmek amacıyla hazırlamış olduğum proje'nin;
 Tasarım aşamasında, cinsiyet ayrımcılığına karşı olan duyarlılığı yansıtmak üzere renk ve görsel seçimlerine dikkat ettim.
